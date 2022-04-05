@@ -2,9 +2,11 @@
   "name": "jcpunk-host_keytab_facts",
   "version": "0.1.0",
   "author": "Pat Riehecky",
-  "summary": "",
+  "summary": "A structured fact containing information about `/etc/krb5.keytab`",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/jcpunk/puppet-host_keytab_facts",
+  "project_page": "https://github.com/jcpunk/puppet-host_keytab_facts",
+  "issues_url": "https://github.com/jcpunk/puppet-host_keytab_facts/issues",
   "dependencies": [
 
   ],
